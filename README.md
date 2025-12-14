@@ -29,11 +29,16 @@ npm start
 ```
 
 ## Project Screenshots
-![Dashboard](images/Screenshot_dashbord.png)
+![Dashboard](images/Screenshot_dashboard.png)
+
 ![Login_Page](images/Screenshot_login.png)
+
 ![Register_Page](images/Screenshot_register.png)
+
 ![Welcome_Page](images/Screenshot_welcome.png)
+
 ![Database_page](images/Screenshot_database.png)
+
 ![Code_Page](images/Screenshot_code.png)
 
 **Run tests & migrations**
