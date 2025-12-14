@@ -28,6 +28,14 @@ npm start
 # app available at http://localhost:3000 (dev proxy to backend)
 ```
 
+## Project Screenshots
+![Dashboard](images/Screenshot 2025-12-14 234706.png)
+![Login_Page](images/Screenshot 2025-12-14 234735.png)
+![Register_Page](images/Screenshot 2025-12-14 234813.png)
+![Welcome_Page](images/Screenshot 2025-12-14 234842.png)
+![Database_page](images/Screenshot 2025-12-14 234956.png)
+![Code_Page](images/Screenshot 2025-12-14 235505.png)
+
 **Run tests & migrations**
 - Apply EF migrations to PostgreSQL:
 
