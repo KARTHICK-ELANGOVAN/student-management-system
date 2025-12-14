@@ -29,12 +29,12 @@ npm start
 ```
 
 ## Project Screenshots
-![Dashboard](images/Screenshot 2025-12-14 234706.png)
-![Login_Page](images/Screenshot 2025-12-14 234735.png)
-![Register_Page](images/Screenshot 2025-12-14 234813.png)
-![Welcome_Page](images/Screenshot 2025-12-14 234842.png)
-![Database_page](images/Screenshot 2025-12-14 234956.png)
-![Code_Page](images/Screenshot 2025-12-14 235505.png)
+![Dashboard](images/Screenshot_dashbord.png)
+![Login_Page](images/Screenshot_login.png)
+![Register_Page](images/Screenshot_register.png)
+![Welcome_Page](images/Screenshot_welcome.png)
+![Database_page](images/Screenshot_database.png)
+![Code_Page](images/Screenshot_code.png)
 
 **Run tests & migrations**
 - Apply EF migrations to PostgreSQL:
