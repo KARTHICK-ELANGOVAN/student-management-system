@@ -96,4 +96,3 @@ The API will throw an informative error on startup if these values are missing o
 - Move secrets to environment variables and add deployment scripts.
 - Consider adding a UI component library (Tailwind/Material) to speed up styling and accessibility.
 
-If you want, I can add a short CONTRIBUTING guide and a GitHub Actions workflow to run tests on push. Would you like me to add that now?
